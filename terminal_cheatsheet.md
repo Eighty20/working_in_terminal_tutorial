@@ -1,5 +1,6 @@
 # Terminal Cheatsheet
 ## Getting Help
+hello
 
     whatis cp
     > cp (1)               - copy files and directories
